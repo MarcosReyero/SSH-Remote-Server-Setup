@@ -2,6 +2,9 @@
 
 The goal of this project is to configure a remote server on AWS, allowing SSH access using custom SSH keys and setting up an alias for easier connections.
 
+## DevOps Roadmap
+This project is part of the [DevOps roadmap](https://roadmap.sh/projects/ssh-remote-server-setup). You can explore more about this in the DevOps Roadmap.
+
 ## Requirements
 - AWS account with a running EC2 instance.
 - Access to your system’s terminal.
